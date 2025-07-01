@@ -1,0 +1,277 @@
+{
+    "list": {
+        "meta": {
+            "totalCount": 2,
+            "limit": 100,
+            "nextCursor": null
+        },
+        "elements": {
+            "order": [
+                {
+                    "purchaseOrderId": "109018284142945",
+                    "customerOrderId": "200013415952612",
+                    "customerEmailId": "0AF37E6A3BC34A0694E732BB09ACAC7A@relay.walmart.com",
+                    "orderDate": 1751241036345,
+                    "shippingInfo": {
+                        "phone": "0000000000",
+                        "estimatedDeliveryDate": 1751407140000,
+                        "estimatedShipDate": 1751268660000,
+                        "methodCode": "Express",
+                        "postalAddress": {
+                            "name": "Sherry McCloud",
+                            "address1": "3275 Lenox Rd NE",
+                            "address2": "Apt 101",
+                            "city": "Atlanta",
+                            "state": "GA",
+                            "postalCode": "30324",
+                            "country": "USA",
+                            "addressType": "RESIDENTIAL"
+                        },
+                        "carrierMethodName": null
+                    },
+                    "orderLines": {
+                        "orderLine": [
+                            {
+                                "lineNumber": "1",
+                                "item": {
+                                    "productName": "Lady Speed Stick Invisible Antiperspirant/Deordorant Shower Fresh 2.3oz 2-Pack",
+                                    "sku": "00643950756766",
+                                    "condition": "New",
+                                    "imageUrl": "https://i5.walmartimages.com/seo/Lady-Speed-Stick-Invisible-Antiperspirant-Deordorant-Shower-Fresh-2-3oz-2-Pack_cb21847a-dbb3-443c-83bb-404a89b13d70.95f876ec5dc1dd5851039a2b8cee3537.jpeg"
+                                },
+                                "charges": {
+                                    "charge": [
+                                        {
+                                            "chargeType": "PRODUCT",
+                                            "chargeName": "ItemPrice",
+                                            "chargeAmount": {
+                                                "currency": "USD",
+                                                "amount": 11.99
+                                            },
+                                            "tax": {
+                                                "taxName": "Tax1",
+                                                "taxAmount": {
+                                                    "currency": "USD",
+                                                    "amount": 1.07
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "orderLineQuantity": {
+                                    "unitOfMeasurement": "EACH",
+                                    "amount": "1"
+                                },
+                                "statusDate": 1751258917000,
+                                "orderLineStatuses": {
+                                    "orderLineStatus": [
+                                        {
+                                            "status": "Shipped",
+                                            "subSellerId": null,
+                                            "statusQuantity": {
+                                                "unitOfMeasurement": "EACH",
+                                                "amount": "1"
+                                            },
+                                            "cancellationReason": null,
+                                            "trackingInfo": {
+                                                "shipDateTime": 1751258915000,
+                                                "carrierName": {
+                                                    "otherCarrier": "Fedex",
+                                                    "carrier": null
+                                                },
+                                                "methodCode": "Express",
+                                                "carrierMethodCode": 7608,
+                                                "trackingNumber": "458131602394",
+                                                "trackingURL": "https://www.walmart.com/tracking?tracking_id=458131602394"
+                                            },
+                                            "returnCenterAddress": null
+                                        }
+                                    ]
+                                },
+                                "refund": null,
+                                "originalCarrierMethod": "7608",
+                                "fulfillment": {
+                                    "fulfillmentOption": "DELIVERY",
+                                    "shipMethod": "EXPEDITED",
+                                    "storeId": null,
+                                    "pickUpDateTime": 1751407140000,
+                                    "pickUpBy": null,
+                                    "shippingProgramType": "TWO_DAY"
+                                }
+                            },
+                            {
+                                "lineNumber": "2",
+                                "item": {
+                                    "productName": "Lady Speed Stick Invisible Antiperspirant/Deordorant Shower Fresh 2.3oz 2-Pack",
+                                    "sku": "00643950756766",
+                                    "condition": "New",
+                                    "imageUrl": "https://i5.walmartimages.com/seo/Lady-Speed-Stick-Invisible-Antiperspirant-Deordorant-Shower-Fresh-2-3oz-2-Pack_cb21847a-dbb3-443c-83bb-404a89b13d70.95f876ec5dc1dd5851039a2b8cee3537.jpeg"
+                                },
+                                "charges": {
+                                    "charge": [
+                                        {
+                                            "chargeType": "PRODUCT",
+                                            "chargeName": "ItemPrice",
+                                            "chargeAmount": {
+                                                "currency": "USD",
+                                                "amount": 11.99
+                                            },
+                                            "tax": {
+                                                "taxName": "Tax1",
+                                                "taxAmount": {
+                                                    "currency": "USD",
+                                                    "amount": 1.07
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "orderLineQuantity": {
+                                    "unitOfMeasurement": "EACH",
+                                    "amount": "1"
+                                },
+                                "statusDate": 1751258917000,
+                                "orderLineStatuses": {
+                                    "orderLineStatus": [
+                                        {
+                                            "status": "Shipped",
+                                            "subSellerId": null,
+                                            "statusQuantity": {
+                                                "unitOfMeasurement": "EACH",
+                                                "amount": "1"
+                                            },
+                                            "cancellationReason": null,
+                                            "trackingInfo": {
+                                                "shipDateTime": 1751258915000,
+                                                "carrierName": {
+                                                    "otherCarrier": "Fedex",
+                                                    "carrier": null
+                                                },
+                                                "methodCode": "Express",
+                                                "carrierMethodCode": 7608,
+                                                "trackingNumber": "458131602394",
+                                                "trackingURL": "https://www.walmart.com/tracking?tracking_id=458131602394"
+                                            },
+                                            "returnCenterAddress": null
+                                        }
+                                    ]
+                                },
+                                "refund": null,
+                                "originalCarrierMethod": "7608",
+                                "fulfillment": {
+                                    "fulfillmentOption": "DELIVERY",
+                                    "shipMethod": "EXPEDITED",
+                                    "storeId": null,
+                                    "pickUpDateTime": 1751407140000,
+                                    "pickUpBy": null,
+                                    "shippingProgramType": "TWO_DAY"
+                                }
+                            }
+                        ]
+                    },
+                    "shipNode": {
+                        "type": "WFSFulfilled"
+                    }
+                },
+                {
+                    "purchaseOrderId": "109018181135948",
+                    "customerOrderId": "200013236868239",
+                    "customerEmailId": "9A3E9B9747724839B485B33E2095E51F@relay.walmart.com",
+                    "orderDate": 1751178571978,
+                    "shippingInfo": {
+                        "phone": "0000000000",
+                        "estimatedDeliveryDate": 1751493540000,
+                        "estimatedShipDate": 1751246460000,
+                        "methodCode": "Express",
+                        "postalAddress": {
+                            "name": "Maria Uriostegui",
+                            "address1": "4804 W Mcfadden Ave",
+                            "address2": "Apt 91",
+                            "city": "Santa Ana",
+                            "state": "CA",
+                            "postalCode": "92704",
+                            "country": "USA",
+                            "addressType": "RESIDENTIAL"
+                        },
+                        "carrierMethodName": null
+                    },
+                    "orderLines": {
+                        "orderLine": [
+                            {
+                                "lineNumber": "1",
+                                "item": {
+                                    "productName": "Lady Speed Stick Invisible Antiperspirant/Deordorant Shower Fresh 2.3oz 2-Pack",
+                                    "sku": "00643950756766",
+                                    "condition": "New",
+                                    "imageUrl": "https://i5.walmartimages.com/seo/Lady-Speed-Stick-Invisible-Antiperspirant-Deordorant-Shower-Fresh-2-3oz-2-Pack_cb21847a-dbb3-443c-83bb-404a89b13d70.95f876ec5dc1dd5851039a2b8cee3537.jpeg"
+                                },
+                                "charges": {
+                                    "charge": [
+                                        {
+                                            "chargeType": "PRODUCT",
+                                            "chargeName": "ItemPrice",
+                                            "chargeAmount": {
+                                                "currency": "USD",
+                                                "amount": 11.99
+                                            },
+                                            "tax": {
+                                                "taxName": "Tax1",
+                                                "taxAmount": {
+                                                    "currency": "USD",
+                                                    "amount": 1.11
+                                                }
+                                            }
+                                        }
+                                    ]
+                                },
+                                "orderLineQuantity": {
+                                    "unitOfMeasurement": "EACH",
+                                    "amount": "1"
+                                },
+                                "statusDate": 1751204352000,
+                                "orderLineStatuses": {
+                                    "orderLineStatus": [
+                                        {
+                                            "status": "Shipped",
+                                            "subSellerId": null,
+                                            "statusQuantity": {
+                                                "unitOfMeasurement": "EACH",
+                                                "amount": "1"
+                                            },
+                                            "cancellationReason": null,
+                                            "trackingInfo": {
+                                                "shipDateTime": 1751204350000,
+                                                "carrierName": {
+                                                    "otherCarrier": "Lasership",
+                                                    "carrier": null
+                                                },
+                                                "methodCode": "Express",
+                                                "carrierMethodCode": 7623,
+                                                "trackingNumber": "1LSCXLNA003565326",
+                                                "trackingURL": "https://www.walmart.com/tracking?tracking_id=1LSCXLNA003565326"
+                                            },
+                                            "returnCenterAddress": null
+                                        }
+                                    ]
+                                },
+                                "refund": null,
+                                "originalCarrierMethod": "7623",
+                                "fulfillment": {
+                                    "fulfillmentOption": "DELIVERY",
+                                    "shipMethod": "EXPEDITED",
+                                    "storeId": null,
+                                    "pickUpDateTime": 1751493540000,
+                                    "pickUpBy": null,
+                                    "shippingProgramType": "TWO_DAY"
+                                }
+                            }
+                        ]
+                    },
+                    "shipNode": {
+                        "type": "WFSFulfilled"
+                    }
+                }
+            ]
+        }
+    }
+}
